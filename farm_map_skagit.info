@@ -1,0 +1,5 @@
+name = Farm Map: Skagit
+description = Skagit County map layers for farmOS maps.
+core = 7.x
+package = farmOS Contrib
+dependencies[] = farm_map
